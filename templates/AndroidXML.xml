@@ -1,8 +1,0 @@
-<templateSet group="AndroidXML">
-  <template name="i18nxml" value="&lt;!--TODO i18n--&gt;$cursor$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="XML" value="true" />
-    </context>
-  </template>
-</templateSet>
