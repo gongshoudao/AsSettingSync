@@ -3,7 +3,7 @@
     <original-file-types />
   </component>
   <component name="DBNavigator.Application.PluginConflictManager">
-    <file-types-claimed value="false" />
+    <file-types-claimed value="true" />
   </component>
   <component name="DBNavigator.Application.Settings">
     <diagnostics>
