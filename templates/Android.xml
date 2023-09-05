@@ -1,0 +1,9 @@
+<templateSet group="Android">
+  <template name="subs" value="$VAR$.subscribeOn(rx.schedulers.Schedulers.io())&#10;        .observeOn(rx.android.schedulers.AndroidSchedulers.mainThread())&#10;        .subscribe(new $cursor$)" description=".subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread())" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="arrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

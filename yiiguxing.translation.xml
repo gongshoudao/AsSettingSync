@@ -1,0 +1,75 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1693450235849" />
+  </component>
+  <component name="Translation.GoogleSettings">
+    <option name="SERVER_URL" value="https://translation.googleapis.com/" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogX" value="2210" />
+    <option name="newTranslationDialogY" value="-424" />
+    <histories>
+      <item value="不足&#10;" />
+      <item value="ILLEGAL" />
+      <item value="word" />
+      <item value="invoice" />
+      <item value="decrease" />
+      <item value="remain" />
+      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.8.0, expected version is 1.6.0." />
+      <item value="CLAUSE" />
+      <item value="Handset" />
+      <item value="Currency" />
+      <item value="Concurrency" />
+      <item value="Scrubber" />
+      <item value="jaw" />
+      <item value="Speakerphone" />
+      <item value="STIFFNESS" />
+      <item value="Velocity" />
+      <item value="maintained" />
+      <item value="HORIZONTA" />
+      <item value="hangup" />
+      <item value="deoptimization" />
+      <item value="confidence" />
+      <item value="constellation" />
+      <item value="capitalization" />
+      <item value="WORD" />
+      <item value="perspective" />
+      <item value="Insets" />
+      <item value="classification" />
+      <item value="province" />
+      <item value="Previous" />
+      <item value="Wheel" />
+      <item value="respect" />
+      <item value="ambiguous" />
+      <item value="Microphone" />
+      <item value="Instantiation" />
+      <item value="noinspection" />
+      <item value="regardless" />
+      <item value="Gender" />
+      <item value="affective" />
+      <item value="hear" />
+      <item value="descendant" />
+      <item value="occupying" />
+      <item value="priority" />
+      <item value="Mandatory" />
+      <item value="mandatory" />
+      <item value="collide" />
+      <item value="synthetic" />
+      <item value="true if the supplied PageTransformer requires page views to be drawn from last to first instead of first to last" />
+      <item value="descendants" />
+      <item value="transparent" />
+      <item value="Collapse" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="85" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="ENGLISH" value="86" />
+      </map>
+    </option>
+  </component>
+</application>

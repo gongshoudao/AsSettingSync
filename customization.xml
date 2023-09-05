@@ -1,0 +1,17 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group seperator="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Tasks Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="tasks.close" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Tasks Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="tasks.close" icon="/Users/gongshoudao/workspace/ui/x-circle.png" />
+  </component>
+</application>
